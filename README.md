@@ -47,3 +47,4 @@ See [this blog post](http://coenraets.org/blog/2016/04/salesforce-bot-for-facebo
     - Make sure you select a page in the **Select a page to subscribe your webhook...** dropdown
     
 1. Visit the Facebook page you created in the previous step, and click the **Message** button. Type **help** in the chat bot. You can continue the conversation with the bot in the Messenger app on your phone or in the browser (http://messenger.com).
+# sfbot001
